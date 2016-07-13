@@ -1,1 +1,1 @@
-include ':GraduatedWheelView'
+include ':GraduatedWheelView', ':demo'
