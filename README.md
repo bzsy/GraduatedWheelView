@@ -1,9 +1,9 @@
 # GraduatedWheelView
 
-## Screenshot
+### Screenshot
 <img src="https://raw.githubusercontent.com/bzsy/GraduatedWheelView/master/screenshot/screenshot.jpeg" width="30%" height="30%">
 
-## How to use
+### How to use
 
 Gradle:
 ```
@@ -12,7 +12,7 @@ dependencies {
 }
 ```
 
-## Configure
+### Configure
 ```java
 setMinVal();            //min value
 setMaxVal();            //max value
